@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
