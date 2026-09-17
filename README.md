@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
