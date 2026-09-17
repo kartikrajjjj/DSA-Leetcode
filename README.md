@@ -41,13 +41,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0260-single-number-iii](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +70,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
