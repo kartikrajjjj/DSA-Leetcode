@@ -34,11 +34,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0344-reverse-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
@@ -95,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
