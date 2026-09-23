@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0075-sort-colors](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Array
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -111,4 +114,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
