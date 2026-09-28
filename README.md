@@ -10,15 +10,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0901-online-stock-span](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
