@@ -11,12 +11,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0901-online-stock-span](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
