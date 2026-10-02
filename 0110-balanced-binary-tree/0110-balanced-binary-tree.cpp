@@ -12,25 +12,18 @@
 class Solution {
 public:
 
-    int maxDepth(TreeNode* root) {
+    int maxDepth(TreeNode* root){
         if(root==nullptr) return 0;
         int lh=maxDepth(root->left);
+        if(lh==-1) return -1;
         int rh=maxDepth(root->right);
-
-        return 1+ max(lh,rh);
+        if(rh==-1) return -1;
+        if(abs(lh-rh)>1) return -1;
+        return max(rh,lh) +1;
     }
-
 
     bool isBalanced(TreeNode* root) {
         if(root==nullptr) return true;
-
-        int lh=maxDepth(root->left);
-        int rh=maxDepth(root->right);
-
-        if(abs(lh-rh)>1) return false;
-        bool isLeft=isBalanced(root->left);
-        bool isRight=isBalanced(root->right);
-        if(isLeft== true && isRight == true) return true;
-        return false;
+        return maxDepth(root) != -1;
     }
 };
