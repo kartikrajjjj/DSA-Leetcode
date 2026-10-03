@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
