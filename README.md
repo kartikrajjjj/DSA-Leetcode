@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
