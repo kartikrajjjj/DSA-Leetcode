@@ -14,17 +14,15 @@ public:
 
     bool helper(TreeNode* temp, long long minimum, long long maximum){
         if(temp==nullptr) return true;
-        if(temp->val >= maximum || temp->val <= minimum) return false;
-        bool l =helper(temp->left, minimum, temp->val);
-        bool r= helper(temp->right, temp->val, maximum);
-        return l && r;
+        if(temp->val >= maximum || temp->val <= minimum ) return false;
+        bool l=helper(temp->left, minimum, temp->val);
+        bool r=helper(temp->right, temp->val, maximum);
+        return l&&r; 
     }
 
     bool isValidBST(TreeNode* root) {
-        if(root==nullptr) return true;
-        long long minimum=(long long)INT_MIN -1;
-        long long maximum= (long long)INT_MAX +1;
-        TreeNode* temp=root;
-        return helper(temp, minimum, maximum);
+        long long minimum =(long long)INT_MIN -1;
+        long long maximum =(long long)INT_MAX +1;
+        return helper(root,minimum,maximum);
     }
 };
