@@ -23,7 +23,7 @@ public:
     bool isValidBST(TreeNode* root) {
         if(root==nullptr) return true;
         long long minimum=(long long)INT_MIN -1;
-        long long maximum= (long long)(INT_MAX) +1;
+        long long maximum= (long long)INT_MAX +1;
         TreeNode* temp=root;
         return helper(temp, minimum, maximum);
     }
