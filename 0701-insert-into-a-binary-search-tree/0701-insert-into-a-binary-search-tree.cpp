@@ -17,22 +17,20 @@ public:
             return newNode;
         }
         TreeNode* temp=root;
-        TreeNode* prev=nullptr;
+        TreeNode* prev=temp;
         while(temp!=nullptr){
-            if(val > temp->val){
+            if(temp->val < val){
                 prev=temp;
                 temp=temp->right;
-            }
-            else if(val < temp->val){
+            } 
+            else if(temp->val > val){
                 prev=temp;
                 temp=temp->left;
-            }
+            } 
         }
-        TreeNode* newNode=new TreeNode(val);
-        if(val < prev->val){
-            prev->left = newNode;
-        }
-        else prev->right =newNode;
+        TreeNode* newNode = new TreeNode(val);
+        if(val < prev->val) prev->left = newNode;
+        else prev->right = newNode;
         return root;
     }
 };
