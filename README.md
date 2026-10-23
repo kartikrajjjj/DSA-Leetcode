@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kartikrajjjj/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
